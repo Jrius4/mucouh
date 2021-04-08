@@ -1,0 +1,42 @@
+/* your styles go here */
+.text__purple{
+    color: #E91E63 !important;
+    font-weight: 700;
+    font-style: italic;
+}
+.bg__grey{
+
+    background: #B3E5FC;
+}
+.box-service{
+
+    background: linear-gradient(0deg, rgba(255,213,79,0.4) 3%, rgba(255,213,79,0.6) 44%, rgba(255,213,79,0.975638) 100%);
+    border-radius:0;
+    background-attachment: fixed;
+    padding:1rem
+}
+.box-service:hover{
+    transition: 1s ease-in-out;
+    transform: scale(1.15);
+    z-index: 10;
+    background: #B3E5FC;
+    color:#000 !important;
+}
+.border__pink{
+    border: 5px #E91E63 solid;
+    border-radius: 10% 10%;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .border__pink{
+          display: none;
+      }
+  }
+
+  @media screen and (max-width: 800px) {
+    .border__pink{
+          display: none;
+      }
+  }
