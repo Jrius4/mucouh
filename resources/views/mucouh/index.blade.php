@@ -15,13 +15,10 @@
                 <img src="/assets-hospital/images/06.jpg" alt="" class="img-fluid">
               </div> -->
               <div class="col-md-5 text-right">
-                <h1>Design</h1>
-                <ul class="list-unstyled">
-                  <li>Clean and elegant design</li>
-                  <li>Full width and boxed mode</li>
-                  <li>Easily readable Roboto font and awesome icons</li>
-                  <li>7 preprepared colour variations</li>
-                </ul>
+                <h1>VISION</h1>
+                <p>
+                    To offer holistic health care for God’s glory
+                </p>
               </div>
               <div class="col-md-7"><img src="/assets-hospital/images/02.jpg" alt="" class="img-fluid"></div>
             </div>
@@ -29,9 +26,9 @@
           <div class="item">
             <div class="row">
               <div class="col-md-5 text-right">
-                <p><img src="/assets-hospital/img/logo.png" alt="" class="ml-auto"></p>
-                <h1>Multipurpose responsive theme</h1>
-                <p>Business. Corporate. Agency.<br>Portfolio. Blog. E-commerce.</p>
+                <h2>Mukono C.O.U Hospital</h2>
+                <h1>MISSION</h1>
+                <p>To provide quality affordable, curative and preventive health services to meet the needs of the society across gender, <br> creed, race and tribe while demonstrating the love of Christ.</p>
               </div>
               <div class="col-md-7"><img src="/assets-hospital/images/01.jpg" alt="" class="img-fluid"></div>
             </div>
@@ -40,12 +37,13 @@
             <div class="row">
               <div class="col-md-7 text-center"><img src="/assets-hospital/images/04.jpg" alt="" class="img-fluid"></div>
               <div class="col-md-5">
-                <h2>46 HTML pages full of features</h2>
+                <h2>CORE VALUES</h2>
                 <ul class="list-unstyled">
-                  <li>Sliders and carousels</li>
-                  <li>4 Header variations</li>
-                  <li>Google maps, Forms, Megamenu, CSS3 Animations and much more</li>
-                  <li>+ 11 extra pages showing template features</li>
+                  <li>Christianity</li>
+                  <li>Integrity</li>
+                  <li>Flexibility</li>
+                  <li>Professionalism</li>
+                  <li>Team work</li>
                 </ul>
               </div>
             </div>
@@ -55,11 +53,17 @@
             <div class="row">
               <div class="col-md-7"><img src="/assets-hospital/images/03.jpg" alt="" class="img-fluid"></div>
               <div class="col-md-5">
-                <h1>Easy to customize</h1>
-                <ul class="list-unstyled">
-                  <li>7 preprepared colour variations.</li>
-                  <li>Easily to change fonts</li>
-                </ul>
+                <h1>AIMS AND OBJECTIVES</h1>
+
+                    <ul class="list-unstyled">
+                        <li class="text__small">To provide quality curative and preventive health care at affordable rates.</li>
+                        <li class="text__small">To demonstrate Christ’s love to our clients in all our activities.</li>
+                        <li class="text__small">To promote community-based health care as means for community development.</li>
+                        <li class="text__small">To promote professional development through staff training, seminars, short courses and conferences.</li>
+                        <li class="text__small">To Participate in income generating activities designed to make Mukono C.O.U Hospital self-sustaining</li>
+                    </ul>
+
+
               </div>
             </div>
           </div>
